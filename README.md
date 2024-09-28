@@ -10,4 +10,4 @@ WordVectorInMotion is a unique visualization tool that demonstrates how word emb
 * Educational: Great for understanding how word embeddings, such as Word2Vec, GloVe, or Transformer-based embeddings, capture semantic meaning.
 * Video Output: Generates a video of the entire training process, allowing users to observe word vectors in motion.
 
-![Video Preview](assets/your-gif-file.gif)
+![Video Preview](assets/WordVectorInMotion.gif)
